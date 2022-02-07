@@ -1,0 +1,47 @@
+body {
+  background-color: #cccccc;
+  box-sizing: border-box;
+  font-family: "Staatliches", cursive;
+}
+a {
+  text-decoration: none;
+
+}
+
+h1 {
+  color: black;
+  text-align: left;
+  font-size: 2.4em;
+  text-transform: uppercase;
+  text-shadow: 3px 1px 1px white;
+  margin: 20px;
+  margin-left: 30px;
+  line-height: 0.75;
+}
+
+
+.card {
+  background-color: #e0e0e0;
+}
+
+.vf {
+  margin: 0;
+}
+article {
+  width: 300px;
+  border: 10px outset rgb(133, 155, 173);
+  overflow: hidden;
+  text-align: center;
+  background-color: white;
+}
+h3 {
+  margin: 5px;
+}
+.logo {
+  margin: 5px;
+}
+.product-price {
+  margin-bottom: 5px;
+}
+
+
